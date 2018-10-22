@@ -1,0 +1,16 @@
+{
+    "name": "root/html",
+    "description": "PHP loader",
+    "type": "project",
+    "require": {
+        "sebastian/phpcpd": "^4.0@dev",
+        "phpunit/phpunit": "^7.5@dev"
+    },
+    "authors": [
+        {
+            "name": "Denis Trubachev",
+            "email": "trub.denchik@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
